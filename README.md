@@ -1,12 +1,12 @@
 # progetto-1
 
-## Descrizione:
+## Descrizione :
 
 
 - Una semplice applicazione web per gestire una lista di cose da fare (task). Permette di aggiungere, completare, filtrare e cancellare task. I dati vengono salvati - nel browser tramite localStorage.
 
 
-## Funzionalità':
+## Funzionalità :
 
 - Aggiungere nuove attività.
 - Segnare i task come completati o incompleti.
